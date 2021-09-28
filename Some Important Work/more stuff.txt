@@ -1,3 +1,5 @@
 added some more text
 
 This is an introduction to using Git
+
+I am trying to use git now.
